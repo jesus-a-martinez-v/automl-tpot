@@ -7,4 +7,4 @@ Generation 4 - Current best internal CV score: 0.9542336216981671
 Generation 5 - Current best internal CV score: 0.9546334856291676
 
 Best pipeline: ExtraTreesClassifier(input_matrix, bootstrap=False, criterion=gini, max_features=0.1, min_samples_leaf=12, min_samples_split=5, n_estimators=100)
-[INFO] Score on the test set: 0.96%
+[INFO] Score on the test set: 96%
