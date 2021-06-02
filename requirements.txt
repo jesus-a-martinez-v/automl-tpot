@@ -40,6 +40,6 @@ tornado==6.0.3
 TPOT==0.10.2
 tqdm==4.35.0
 update-checker==0.16
-urllib3==1.25.3
+urllib3==1.26.5
 xgboost==0.90
 zict==1.0.0
